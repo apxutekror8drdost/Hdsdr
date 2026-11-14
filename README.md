@@ -192,4 +192,4 @@ This repository serves as the official landing page for HDSDR. The software is d
 **Get the most recent version of HDSDR today!**
 
 ---
-**Last updated:** 2026-11-14 08:33:06 UTC
+**Last updated:** 2026-11-14 15:31:21 UTC
